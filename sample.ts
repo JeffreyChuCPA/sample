@@ -1,7 +1,7 @@
 import React from 'react'
 
-export const Untitled-1 = () => {
+export const newSample = () => {
   return (
-    <div>Untitled-1</div>
+    <div>hello world</div>
   )
 }
